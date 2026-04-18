@@ -37,7 +37,7 @@ Speed is a direct ranking factor. Fast sites equal better user experience and hi
 - [ ] **Caching Strategy:** Ensure proper browser caching and server-side caching (e.g., Redis, Memcached) are active.
 
 > [!TIP]
-> **💡 Server Performance Tip:** Your hosting infrastructure dictates your baseline speed. If you are constantly battling slow server response times (high TTFB) despite optimizing your code, consider upgrading your host. I personally use and recommend [Hostinger](https://hostinger.in?REFERRALCODE=WEBPRO2025) for their LiteSpeed servers and built-in advanced caching. They offer excellent performance for both standard sites and demanding web projects.
+> **💡 Server Performance Tip:** Your hosting infrastructure dictates your baseline speed. If you are constantly battling slow server response times (high TTFB) despite optimizing your code, consider upgrading your host. I personally use and recommend [**Hostinger**](https://hostinger.in?REFERRALCODE=WEBPRO2025) for their LiteSpeed servers and built-in advanced caching. They offer excellent performance for both standard sites and demanding web projects.
 
 ## 3. On-Page & Content Strategy
 - [ ] **Search Intent:** Does the page format (listicle, guide, tool) match what the user actually wants?
