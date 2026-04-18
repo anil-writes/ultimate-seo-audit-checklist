@@ -13,9 +13,9 @@ Welcome! This repository contains a professional-grade SEO audit checklist desig
 3. [Performance & Speed](#performance)
 4. [Backlink & Authority](#authority)
 
-# 🚀 Ultimate SEO & Performance Checklist
+## 🚀 Ultimate SEO & Performance Checklist
 
-## 🛠️ 1. Technical SEO Checklist
+### 🛠️ 1. Technical SEO Checklist
 
 - [ ] **Sitemap & `robots.txt`**: Ensure they are properly configured and submitted to GSC.
 - [ ] **Crawlability**: Check for `404` errors, redirect loops, and orphaned pages.
@@ -24,7 +24,7 @@ Welcome! This repository contains a professional-grade SEO audit checklist desig
 
 ---
 
-## ⚡ 2. Performance & Speed 
+### ⚡ 2. Performance & Speed 
 > *(Note: Yahan aap Hosting ka importance bata sakte hain)*
 
 - [ ] **LCP (Largest Contentful Paint)**: Target `< 2.5s`.
@@ -34,7 +34,7 @@ Welcome! This repository contains a professional-grade SEO audit checklist desig
 
 ---
 
-## 🧠 3. On-Page & AI-Optimization
+### 🧠 3. On-Page & AI-Optimization
 
 - [ ] **Keyword Intent**: Does the content match what the user is searching for?
 - [ ] **Internal Linking**: Ensure a logical silo structure.
