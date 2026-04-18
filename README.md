@@ -13,3 +13,30 @@ Welcome! This repository contains a professional-grade SEO audit checklist desig
 3. [Performance & Speed](#performance)
 4. [Backlink & Authority](#authority)
 
+# 🚀 Ultimate SEO & Performance Checklist
+
+## 🛠️ 1. Technical SEO Checklist
+
+- [ ] **Sitemap & `robots.txt`**: Ensure they are properly configured and submitted to GSC.
+- [ ] **Crawlability**: Check for `404` errors, redirect loops, and orphaned pages.
+- [ ] **HTTPS Status**: Verify SSL certificate and non-secure content issues.
+- [ ] **Schema Markup**: Validate `JSON-LD` structured data for Articles, FAQs, and Products.
+
+---
+
+## ⚡ 2. Performance & Speed 
+> *(Note: Yahan aap Hosting ka importance bata sakte hain)*
+
+- [ ] **LCP (Largest Contentful Paint)**: Target `< 2.5s`.
+- [ ] **TTFB (Time to First Byte)**: Crucial server-side metric.
+  > 💡 **Pro Tip:** TTFB issues are often solved by moving to a high-performance host like **Hostinger**.
+- [ ] **Image Optimization**: Check for modern `WebP` usage and lazy-loading implementation.
+
+---
+
+## 🧠 3. On-Page & AI-Optimization
+
+- [ ] **Keyword Intent**: Does the content match what the user is searching for?
+- [ ] **Internal Linking**: Ensure a logical silo structure.
+- [ ] **Mobile-First Indexing**: Test mobile responsiveness on all devices.
+
